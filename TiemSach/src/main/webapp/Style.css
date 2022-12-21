@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+body {
+	background: #f6b93b;
+}
+
+.container .row .lead {
+	color: black;
+	font-weight: bolder;
+	margin-left: 57px;
+}
+
+.form {
+	margin-top: 178px;
+	margin-left: 175px;
+	border: 1px solid black;
+	width: 500px;
+	height: 330px;
+	background: #dcdde1;
+}
+
+.form .dangnhap {
+	margin-top: 96px;
+	margin-left: 98px;
+	width: 330px;
+	height: 173px;
+}
+
+.form .dangnhap .one {
+	padding-top: 5px;
+	margin-top: 15px;
+	width: 215px;
+}
+
+.img {
+	width: 412px;
+	margin-left: 795px;
+	margin-top: -467px;
+	height: 505px;
+}
+
+.form .dangky {
+	margin-top: 20px;
+	margin-left: 70px;
+	width: 395px;
+	height: 287px;
+}
+
+.form .dangky .two {
+	width: 163px;
+	padding-top: 5px;
+	margin-top: 15px;
+}
+
+.tong {
+	background: rgba(0, 0, 0, 0.8);
+	padding: 20px;
+	color: aqua;
+}
+
+.giohang {
+	width: 828px;
+	margin-left: -10px;
+}
+
+.tieude {
+	font-weight: bolder;
+}
+
+.giohang tr {
+	border: 1px solid #74b9ff;
+}
+
+.giohang tr td {
+	border: 1px solid #74b9ff;
+	text-align: center;
+}
+
+.dangky .OK {
+	display: block;
+	margin-top: 11px;
+	margin-left: 124px;
+	width: 110px;
+}
+
+.thanhtoan {
+	display: block;
+	margin-left: 487px;
+	width: 311px;
+	margin-top: -59px;
+}
